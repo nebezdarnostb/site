@@ -1,0 +1,2 @@
+# site
+Django site
